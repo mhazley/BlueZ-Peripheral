@@ -2,11 +2,9 @@
 
 ### Get to grips with Bluetooth Low Energy on a Linux Platform
 
+***B***luetooth ***L***ow ***E***nergy (***BLE***, formerly known as Bluetooth Smart) has been around since 2010 when it was integrated into version 4.0 of the Core Bluetooth Specification. 
 
-
-***B\***luetooth ***L\***ow ***E\***nergy (***BLE\***, formerly known as Bluetooth Smart) has been around since 2010 when it was integrated into version 4.0 of the Core Bluetooth Specification. 
-
-While possibly a slow starter, it is undeniable the effect the BLE has had on the ***I\***nternet ***o\***f ***T\***hings (***IoT\***) industry and today its use can be found in everything from Wear-ables to Smart-Home devices to location tracking beacons. 
+While possibly a slow starter, it is undeniable the effect the BLE has had on the ***I***nternet ***o***f ***T***hings (***IoT***) industry and today its use can be found in everything from Wearables to Smart-Home devices to location tracking beacons. 
 
 Nowadays, it is fairly common to find a large array of IoT development platforms shipping with Bluetooth hardware on board including, possibly, the most celebrated; the Raspberry Pi.
 
